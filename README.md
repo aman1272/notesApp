@@ -1,4 +1,8 @@
 # todo-list
+
+Click this link to check todo (recorded video) - https://www.awesomescreenshot.com/video/20589293?key=478be9cf77cef601706a98fb93610866
+
+
 To do app (React.js,Node.js,Express.js and MySql)
 Step 1 - Go to client and server dir and use cmd command npm install
 Step 2 -  After that Go to the client directory and use cmd npm starts then both (client and server) start concurrently start
@@ -13,4 +17,3 @@ Database-
 <img width="944" alt="image" src="https://github.com/aman1272/notesApp/assets/96410236/7b5a5b3d-ff2b-4395-a671-640ec3f8e4a2">
 
 
-Click this link to check todo (recorded video) - https://www.awesomescreenshot.com/video/20589293?key=478be9cf77cef601706a98fb93610866
